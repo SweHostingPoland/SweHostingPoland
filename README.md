@@ -16,4 +16,4 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SweHostingPoland&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-<img src="https://raw.githubusercontent.com/SweHostingPoland/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SweHostingPoland/snake.svg" alt="Snake animation" />
